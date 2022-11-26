@@ -7,5 +7,12 @@ public static void main(String[] args) {
 	
 	String a ="Suraj";
 	String b="Sahu";
+	
+	String a1 ="Suraj";
+	String b1="Sahu";
+	
+	String a2 ="Suraj";
+	String b2="Sahu";
+	
 }
 }
