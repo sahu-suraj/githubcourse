@@ -15,6 +15,8 @@ public static void main(String[] args) {
 	String b2="Sahu";
 	
 	System.out.println("abd");
+	System.out.println("abdd");
+	System.out.println("Suraj");
 	
 }
 }
